@@ -1,6 +1,6 @@
 # geodata-preco-medio-gasolina
 
-[![Mapa de Estados brasileiros](https://github.com/thiagocrd/geodata-preco-medio-gasolina/blob/main/gasolina-comum-semanal-09-07-2022.jpg "Mapa de Estados brasileiros, coloridos conforme preço médio da gasolina comum.")]
+![Mapa de Estados brasileiros](https://github.com/thiagocrd/geodata-preco-medio-gasolina/blob/main/gasolina-comum-semanal-09-07-2022.jpg "Mapa de Estados brasileiros, coloridos conforme preço médio da gasolina comum.")
 
 Jupyter notebook com o código para visualizar dados de preço médio da gasolina por Estado do Brasil.
 
