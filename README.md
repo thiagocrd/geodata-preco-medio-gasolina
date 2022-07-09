@@ -6,4 +6,4 @@ Jupyter notebook com o código para visualizar dados de preço médio da gasolin
 
 Para esse código, foram usados os seguintes dados:
 - Arquivo uf.json com dados para representar os Estados brasileiros, disponível em <https://github.com/fititnt/gis-dataset-brasil>
-- Dados de preço médio da gasolina comum divulgados pela ANP (Agência Nacional do Pretóleo), disponível em <https://preco.anp.gov.br/include/Resumo_Semanal_Index.asp>
+- Dados de preço médio da gasolina comum divulgados pela ANP (Agência Nacional do Pretóleo), disponíveis em <https://preco.anp.gov.br/include/Resumo_Semanal_Index.asp>
