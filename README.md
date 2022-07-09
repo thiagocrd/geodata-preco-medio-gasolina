@@ -5,5 +5,5 @@
 Jupyter notebook com o código para visualizar dados de preço médio da gasolina por Estado do Brasil.
 
 Para esse código, foram usados os seguintes dados:
-- Arquivo .json com dados para representar os Estados brasileiros, disponível em <https://github.com/fititnt/gis-dataset-brasil>
+- Arquivo uf.json com dados para representar os Estados brasileiros, disponível em <https://github.com/fititnt/gis-dataset-brasil>
 - Dados de preço médio da gasolina comum divulgados pela ANP (Agência Nacional do Pretóleo), disponível em <https://preco.anp.gov.br/include/Resumo_Semanal_Index.asp>
